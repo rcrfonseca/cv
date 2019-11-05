@@ -1,5 +1,5 @@
 
-title: My Resume
+title: Raphael Fonseca Resumé
 url: 'http://rcrfonseca.github.io'
 baseurl: '/rcrfonseca.github.io' #change it according to your repository name
 
@@ -9,7 +9,7 @@ baseurl: '/rcrfonseca.github.io' #change it according to your repository name
 #style: styles-3
 #style: styles-4
 #style: styles-5
-#style: styles-6
+style: styles-6
 
 
 #Profile information
