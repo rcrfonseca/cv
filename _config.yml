@@ -1,6 +1,6 @@
 
 title: Raphael Fonseca Resumé
-url: 'http://rcrfonseca.github.io'
+url: 'http://raphaelfonseca.tech'
 baseurl: '/rcrfonseca.github.io' #change it according to your repository name
 
 
@@ -23,6 +23,6 @@ website: vortexdata.tech #do not add http://
 linkedin: raphaelfonseca
 github: rcrfonseca
 twitter: '@raphaelfonseca'
-instagram: kazesamui
+instagram: oraphaelfonseca
 
 #Update all the sections by editing the files inside _includes folder.
